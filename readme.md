@@ -2,9 +2,9 @@
 Flukeout è un gioco che permette di apprendere i selettori di CSS, come per esempio **combinators**, **pseudo-classes** e **pseudo-elements**.
 
 Qui di seguito il link per accedere al gioco:
-```
-[Flukeout](lukeout.github.io)
-```
+
+[Flukeout](www.flukeout.github.io)
+
 
 ## Info
 
