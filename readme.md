@@ -3,7 +3,7 @@ Flukeout è un gioco che permette di apprendere i selettori di CSS, come per ese
 
 Qui di seguito il link per accedere al gioco:
 ```
-[title](https://flukeout.github.io/)
+[Flukeout](lukeout.github.io)
 ```
 
 ## Info
